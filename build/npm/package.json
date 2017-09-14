@@ -1,0 +1,33 @@
+{
+  "name": "react-imation",
+  "version": "0.5.3",
+  "description": "functional tweening and animation for react",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gilbox/react-imation.git"
+  },
+  "homepage": "https://github.com/gilbox/react-imation/blob/latest/README.md",
+  "bugs": "https://github.com/gilbox/react-imation/issues",
+  "authors": [
+    "Gil Birman"
+  ],
+  "license": "MIT",
+  "peerDependencies": {},
+  "dependencies": {
+    "raf": "^3.1.0"
+  },
+  "tags": [
+    "react",
+    "react-native",
+    "animation"
+  ],
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "animation",
+    "tweening",
+    "easing"
+  ]
+}

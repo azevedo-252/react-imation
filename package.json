@@ -2,7 +2,7 @@
   "name": "react-imation",
   "version": "0.5.3",
   "description": "functional tweening and animation for react",
-  "main": "./src/index",
+  "main": "./build/npm/index",
   "repository": {
     "type": "git",
     "url": "https://github.com/gilbox/react-imation.git"

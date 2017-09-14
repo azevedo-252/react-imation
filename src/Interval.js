@@ -38,7 +38,7 @@ export default class Interval extends Component {
 
   componentWillUnmount() {
     cancelAnimationFrame(this.rafId);
-    cancelTimeout(this.timeoutId);
+    clearTimeout(this.timeoutId);
   }
 
   _updateTick(onTick) {

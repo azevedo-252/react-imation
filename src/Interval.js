@@ -4,7 +4,9 @@
 // so that all you have to think about is what to do
 // every tick and how to schedule the next interval.
 
-import React, { Component, PropTypes } from 'react';
+import PropTypes from 'prop-types';
+
+import React, { Component } from 'react';
 
 export default class Interval extends Component {
   static propTypes = {

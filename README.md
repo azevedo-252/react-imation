@@ -22,6 +22,16 @@ For react-native the following imports are available
   - `react-imation/timeline/native`
   - `react-imation/tween-value-factories`
 
+## Build
+
+```
+> yarn run build-npm
+> "push to master"
+
+// at host app
+> yarn upgrade react-imation
+```
+
 ## Demos
 
 -  [Demo1](http://gilbox.github.io/react-imation/examples/demo1/demo.html): [[source](https://github.com/gilbox/react-imation/blob/master/examples/demo1/Game.js)] `tween`, `<Timeline />`  ***Exploding Snowflakes***
